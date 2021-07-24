@@ -1,0 +1,14 @@
+{
+  // "parser": "vue-eslint-parser",
+  "extends": [
+    "plugin:vue/vue3-essential",
+    "@vue/typescript"
+  ],
+  // "parserOptions": {
+  //   "parser": "@typescript-eslint/parser"
+  // },
+  "rules": {
+    "vue/valid-v-for": "off",
+    "vue/html-indent": "off"
+  }
+}
